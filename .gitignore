@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Ignore local data files
+ui.py
+chapter1.png
+chapter1_*.txt
+url_input.txt
+chroma_store/
+
+# Ignore __pycache__
+__pycache__/
+*.pyc
